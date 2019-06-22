@@ -1,0 +1,5 @@
+C:\Users\Ливарчук\Documents\Visual Studio 2017\Projects\ConsoleAppChessKnight\ConsoleAppChessKnight\bin\Debug\ConsoleAppChessKnight.exe.config
+C:\Users\Ливарчук\Documents\Visual Studio 2017\Projects\ConsoleAppChessKnight\ConsoleAppChessKnight\bin\Debug\ConsoleAppChessKnight.exe
+C:\Users\Ливарчук\Documents\Visual Studio 2017\Projects\ConsoleAppChessKnight\ConsoleAppChessKnight\bin\Debug\ConsoleAppChessKnight.pdb
+C:\Users\Ливарчук\Documents\Visual Studio 2017\Projects\ConsoleAppChessKnight\ConsoleAppChessKnight\obj\Debug\ConsoleAppChessKnight.exe
+C:\Users\Ливарчук\Documents\Visual Studio 2017\Projects\ConsoleAppChessKnight\ConsoleAppChessKnight\obj\Debug\ConsoleAppChessKnight.pdb
